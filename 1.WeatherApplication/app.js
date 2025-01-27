@@ -1,6 +1,6 @@
 const WEATHER_API = "https://api.openweathermap.org/data/2.5/weather?";
 //q={city name}&appid={API key}
-const API_KEY = "07eeee09fadc247f9a77ee7b820d2716";
+const API_KEY = "*******************";
 
 let ele = document
   .getElementById("button")
